@@ -1,6 +1,7 @@
-# HAMD-RSISR: Hybrid Attention and Multi-Dictionary for Remote Sensing Super-Resolution
+# MSFA-RSISR: Multi-Scale and Fourier Attention for Remote Sensing Image Super-Resolution
 
-This job opportunity arises from the paper "MSFA-RSISR: Multi-Scale and Fourier Attention for Remote Sensing Image Super-Resolution PRCV2025  [[Paper](https://link.springer.com/chapter/10.1007/978-981-95-5682-3_38)].
+This job opportunity arises from the paper "MSFA-RSISR: Multi-Scale and Fourier Attention for Remote Sensing Image Super-Resolution PRCV2025  [[Paper](https://link.springer.com/chapter/10.1007/978-981-95-5682-3_38)].and mostly built on Recursive generalization transformer for image
+super-resolution(RGT)[link](https://github.com/zhengchen1999/RGT).
 
 Given my limited coding proficiency, I am submitting this as a record. It should be noted that this code cannot be used for professional learning or work
 
